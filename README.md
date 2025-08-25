@@ -82,5 +82,3 @@ Clique em "Ir para o recurso" para ver o painel de controlo do seu novo banco de
 
 # 🎯 Para mim:
 Concluir este laboratório sobre o Banco de Dados SQL do Azure foi uma experiência muito enriquecedora. Entender na prática como configurar um servidor, definir regras de acesso e escolher as opções de custo e desempenho é crucial para qualquer desenvolvedor que queira construir aplicações robustas na nuvem.
-
-Este conhecimento prático complementa a teoria e me dá mais confiança para desenhar e implementar soluções completas, pensando não apenas no código, mas em toda a infraestrutura de dados que o suporta.
